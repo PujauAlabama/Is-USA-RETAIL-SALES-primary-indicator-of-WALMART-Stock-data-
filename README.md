@@ -1,4 +1,4 @@
-# Is-USA-RETAIL-SALES-primary-indicator-of-WALMART-Stock-data?
+# Is USA RETAIL SALES primary indicator of WALMART Stock data?
 
 ## Summary
 In this report I have tried to address whether the USA Retail Sales data is
