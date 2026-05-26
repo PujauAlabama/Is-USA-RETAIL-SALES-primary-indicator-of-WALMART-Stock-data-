@@ -1,7 +1,7 @@
 # Is USA RETAIL SALES primary indicator of WALMART Stock data?
 
 ## Summary
-In this report I have tried to address whether the USA Retail Sales data is
+Here I have tried to address whether the USA Retail Sales data is
 the best indicator of WMT or not. The general methodology goes as follows.
 After downloading the data, I have converted the monthly retail sales data to
 quarterly data to match frequency of that of WMT data. Other way to approach
